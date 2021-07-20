@@ -1,0 +1,22 @@
+{
+  "name": "kimlebot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "simple-json-db": "^1.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-xo": "^0.37.0"
+  }
+}
